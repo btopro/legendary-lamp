@@ -89,7 +89,17 @@
         "created": 1724101061,
         "images": [],
         "videos": [],
-        "updated": 1724101061
+        "updated": 1724101061,
+        "files": [
+          {
+            "path": "[object Object]WP_20150820_001.jpg",
+            "fullUrl": "//home/btopro/legendary-lamp/files/WP_20150820_001.jpg",
+            "url": "files/WP_20150820_001.jpg",
+            "type": "image/jpeg",
+            "name": "WP_20150820_001.jpg",
+            "size": 351525
+          }
+        ]
       }
     }
   ]
