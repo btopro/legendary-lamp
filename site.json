@@ -53,27 +53,6 @@
   },
   "items": [
     {
-      "id": "item-fe4da09a-b9cf-483d-b2d5-6397785f61fe",
-      "indent": 0,
-      "location": "pages/item-fe4da09a-b9cf-483d-b2d5-6397785f61fe/index.html",
-      "slug": "welcome",
-      "order": 4,
-      "parent": null,
-      "title": "Welcome",
-      "description": "Welcome to your new HAX site! Click edit on the top bar to get started\nThis is a boilerplate so that you can add and make new things from the npx @haxtheweb/haxcms-nodejscommand\nWhat can I do?\nWe've ",
-      "metadata": {
-        "created": 1689962391,
-        "updated": 1724101061,
-        "published": true,
-        "hideInMenu": false,
-        "locked": false,
-        "readtime": 1,
-        "videos": {},
-        "images": {},
-        "status": ""
-      }
-    },
-    {
       "id": "item-5d10133c-610b-4b2a-b54a-18bee9ff9c7c",
       "indent": 0,
       "location": "pages/item-5d10133c-610b-4b2a-b54a-18bee9ff9c7c/index.html",
