@@ -83,13 +83,13 @@
       "order": 1,
       "parent": null,
       "title": "I just got back from the show!",
-      "description": "",
+      "description": "I nearly spit out my coffee when this was working!\n\n",
       "metadata": {
         "locked": false,
         "created": 1724101061,
-        "images": [],
-        "videos": [],
-        "updated": 1724101061,
+        "images": {},
+        "videos": {},
+        "updated": 1724101142,
         "files": [
           {
             "path": "[object Object]WP_20150820_001.jpg",
@@ -99,7 +99,10 @@
             "name": "WP_20150820_001.jpg",
             "size": 351525
           }
-        ]
+        ],
+        "published": true,
+        "hideInMenu": false,
+        "readtime": 1
       }
     }
   ]
